@@ -1,0 +1,94 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {spanish}{}
+\defcounter {refsection}{1}\relax 
+\contentsline {section}{\numberline {0.1}Introducción}{3}{}%
+\defcounter {refsection}{1}\relax 
+\contentsline {part}{I\hspace {1em}Contextualización de la investigación}{4}{}%
+\defcounter {refsection}{1}\relax 
+\contentsline {chapter}{\numberline {1}Descripción de la investigación}{5}{}%
+\defcounter {refsection}{2}\relax 
+\contentsline {section}{\numberline {1.1}Título y definición del tema de investigación}{5}{}%
+\defcounter {refsection}{2}\relax 
+\contentsline {section}{\numberline {1.2}Estudio del problema de investigación}{5}{}%
+\defcounter {refsection}{2}\relax 
+\contentsline {subsection}{\numberline {1.2.1}Planteamiento del problema}{5}{}%
+\defcounter {refsection}{2}\relax 
+\contentsline {subsection}{\numberline {1.2.2}Formulación del problema}{6}{}%
+\defcounter {refsection}{2}\relax 
+\contentsline {subsection}{\numberline {1.2.3}Sistematización del problema}{6}{}%
+\defcounter {refsection}{2}\relax 
+\contentsline {section}{\numberline {1.3}Objetivos de la investigación}{6}{}%
+\defcounter {refsection}{2}\relax 
+\contentsline {subsection}{\numberline {1.3.1}Objetivo general}{6}{}%
+\defcounter {refsection}{2}\relax 
+\contentsline {subsection}{\numberline {1.3.2}Objetivos específicos}{6}{}%
+\defcounter {refsection}{2}\relax 
+\contentsline {section}{\numberline {1.4}Justificación}{7}{}%
+\defcounter {refsection}{2}\relax 
+\contentsline {subsection}{\numberline {1.4.1}Justificación práctica}{7}{}%
+\defcounter {refsection}{2}\relax 
+\contentsline {section}{\numberline {1.5}Hipótesis del trabajo}{7}{}%
+\defcounter {refsection}{2}\relax 
+\contentsline {section}{\numberline {1.6}Marco referencial}{7}{}%
+\defcounter {refsection}{2}\relax 
+\contentsline {subsection}{\numberline {1.6.1}Marco teórico}{7}{}%
+\defcounter {refsection}{2}\relax 
+\contentsline {subsection}{\numberline {1.6.2}Marco conceptual}{8}{}%
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Ciencia de los datos}{8}{}%
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Componente ambiental}{8}{}%
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Calidad del aire}{8}{}%
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Aire y contaminación}{9}{}%
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Red de monitoreo de calidad del aire de Bogotá}{9}{}%
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Información de contaminantes}{10}{}%
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Niveles máximos permisibles de contaminantes criterio en el aire}{11}{}%
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Machine Learning}{12}{}%
+\defcounter {refsection}{2}\relax 
+\contentsline {section}{\numberline {1.7}Aspectos metodológicos}{15}{}%
+\defcounter {refsection}{2}\relax 
+\contentsline {subsection}{\numberline {1.7.1}Tipo de estudio}{15}{}%
+\defcounter {refsection}{2}\relax 
+\contentsline {subsection}{\numberline {1.7.2}Metodología de investigación}{15}{}%
+\defcounter {refsection}{2}\relax 
+\contentsline {subsection}{\numberline {1.7.3}Fuentes y técnicas para la recolección de información}{16}{}%
+\defcounter {refsection}{1}\relax 
+\contentsline {xpart}{Contextualización de la investigación}{5}{}%
+\defcounter {refsection}{2}\relax 
+\contentsline {part}{II\hspace {1em}Desarrollo de la investigación}{18}{}%
+\defcounter {refsection}{2}\relax 
+\contentsline {chapter}{\numberline {2}Desarrollo de la investigación}{19}{}%
+\defcounter {refsection}{3}\relax 
+\contentsline {chapter}{\numberline {3}Arquitectura de la aplicación}{20}{}%
+\defcounter {refsection}{4}\relax 
+\contentsline {chapter}{\numberline {4}Modelado de los datos}{21}{}%
+\defcounter {refsection}{2}\relax 
+\contentsline {xpart}{Desarrollo de la investigación}{19}{}%
+\defcounter {refsection}{5}\relax 
+\contentsline {part}{III\hspace {1em}Cierre de la investigación}{22}{}%
+\defcounter {refsection}{5}\relax 
+\contentsline {chapter}{\numberline {5}Resultados y discusión}{23}{}%
+\defcounter {refsection}{6}\relax 
+\contentsline {chapter}{\numberline {6}Conclusiones}{24}{}%
+\defcounter {refsection}{7}\relax 
+\contentsline {section}{\numberline {6.1}Verificación, contraste y evaluación de los objetivos}{24}{}%
+\defcounter {refsection}{7}\relax 
+\contentsline {section}{\numberline {6.2}Síntesis del modelo propuesto}{24}{}%
+\defcounter {refsection}{7}\relax 
+\contentsline {section}{\numberline {6.3}Aportes originales}{24}{}%
+\defcounter {refsection}{7}\relax 
+\contentsline {section}{\numberline {6.4}Trabajos o Publicaciones derivadas}{24}{}%
+\defcounter {refsection}{7}\relax 
+\contentsline {chapter}{\numberline {7}Prospectiva del trabajo de grado}{25}{}%
+\defcounter {refsection}{8}\relax 
+\contentsline {section}{\numberline {7.1}Líneas de investigación futuras}{25}{}%
+\defcounter {refsection}{8}\relax 
+\contentsline {section}{\numberline {7.2}Trabajos de Investigación futuros}{25}{}%
+\defcounter {refsection}{5}\relax 
+\contentsline {xpart}{Cierre de la investigación}{23}{}%

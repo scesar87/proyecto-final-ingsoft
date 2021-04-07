@@ -1,0 +1,113 @@
+\documentclass[a4paper, fontsize=16pt, oneside]{book}
+%--------------Packages--------------------------------
+%Márgenes
+\usepackage{geometry}
+\geometry{a4paper, top=3cm, bottom=3cm, left=3cm, right=3cm, bindingoffset=5mm}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{graphicx}
+\usepackage{multicol}
+\usepackage[document]{ragged2e}
+
+%Actualiza la fecha de compilado del proyecto
+\usepackage{datetime}
+\newdateformat{monthyeardate}{%
+	\monthname[\THEMONTH] de \THEYEAR}
+
+\usepackage{minitoc} 
+\nomtcrule 
+	\renewcommand{\mtctitle}{Sumario}
+
+%Bibliografía
+\usepackage[sorting=none,backend=biber,refsection=chapter]{biblatex} 
+	\defbibheading{bibbysubsect}{\section*{Bibliografía}}
+	\addbibresource{bibliografia.bib}
+
+%Punteado de las tablas de contenido	
+\makeatletter
+	\renewcommand*\l@subsection{\@dottedtocline{2}{3.8em}{3.5em}}% Used to be {3.8em}{3.2em}
+\makeatother
+
+%Tablas
+\usepackage[table]{xcolor}
+
+%--------------Documento--------------------------------
+
+\title{PROTOTIPO DE USO DE MACHINE LEARNING APLICADA EN EL ANÁLISIS DE LOS FACTORES QUE INFLUYEN EN LA CALIDAD DEL AIRE EN LA CIUDAD DE BOGOTÁ}
+\author{Edgar Castro, Cesar Solano}
+\begin{document}
+	
+	
+%--------------Portada--------------------------------
+\begin{titlepage}	
+	\begin{center}
+		{\scshape\Large\bfseries UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDAS \par}
+		\vspace{1cm}
+		\includegraphics{images/Escudo.png}\par
+		\vspace{0,7cm}
+		{\scshape\Large\bfseries FACULTAD DE INGENIERÍA \par}
+		\vspace{0,5cm}
+		{\scshape\normalsize ESPECIALIZACIÓN EN INGENIERÍA DE SOFTWARE\par}
+		\vspace{0.3cm}
+		
+		{\scshape\normalsize\bfseries PROTOTIPO DE USO DE MACHINE LEARNING APLICADA EN EL ANÁLISIS DE LOS FACTORES QUE INFLUYEN EN LA CALIDAD DEL AIRE EN LA CIUDAD DE BOGOTÁ\par}
+		\vspace{2cm}
+	\end{center}
+
+	\begin{multicols}{3}
+		\begin{center}
+			\scshape\normalsize\textbf{Director:}\\ Sandro Javier Bolaños Castro \par
+			
+			\columnbreak
+			\scshape\normalsize\textbf{Revisora:}\\Jorge Mario Calvo \par
+			
+			\columnbreak
+			\scshape\normalsize\textbf{Autores:}\\Edgar Junior Castro Escorcia, César Alfonso Solano Ruiz\par
+		\end{center}
+	\end{multicols}
+
+	\vfill
+
+	{\begin{center}
+			\scshape\Large\monthyeardate\today
+	\end{center}}
+	
+\end{titlepage}
+
+\tableofcontents
+
+
+
+\newpage
+\justify
+\section{Introducción}
+
+Desde hace algunos años y con el gran crecimiento de las tecnologías de la información aplicadas a diferentes aspectos de nuestro diario vivir, se produce información conseguida desde los diferentes dispositivos empleados en las actividades, estas fuentes de información que al ser manejada de forma masiva se convierte en base de partida para establecer las diferentes comportamientos, tendencias y necesidades.
+Es una tendencia que se está extendiendo globalmente a las ciudades y que es conocido como "Smart City" consiste en la aplicación del big data y sus diferentes técnicas a la gobernabilidad, una visión futurista para que las ciudades , recursos y necesidades pueden ser administradas de forma tecnológica y con sentido social, para ello las ciudades hacen uso de las diferentes fuentes de información que siempre han existido pero que ahora están disponibles de forma digital y que puede ser cruzada con otras instituciones de forma rápida y eficaz , cosa que en el pasado era imposible realizar.
+En Colombia desde el año En Colombia desde el 17 de abril de 2018 se estableció la política de explotación de datos Big data en el documento CONPES 3920 la cual tiene como objetivo “La presente política tiene por objetivo aumentar el aprovechamiento de datos, mediante el desarrollo de las condiciones para que sean gestionados como activos para generar valor social y económico. En lo que se refiere a las actividades de las entidades públicas, esta generación de valor es entendida como la provisión de bienes públicos para brindar respuestas efectivas y útiles frente a las necesidades sociales”.
+El Distrito Capital cuenta con la Red de Monitoreo de Calidad del Aire de Bogotá – RMCAB, la cual permite recolectar información sobre la concentración de contaminantes y variables meteorológicas de forma continua en diferentes lugares de la ciudad. 
+El proceso inicia con la medición de los parámetros en cada estación y el almacenamiento de estos en un datalogger, luego cada hora se actualizan los datos y son transmitidos hacia el servidor central, donde se almacena la información en una base de datos. 
+Esta información es validada desde su captura en los equipos, hasta su revisión en la sede central, con el fin de obtener los datos para la elaboración de los informes periódicos de calidad del aire. En dichos reportes se evalúa el cumplimiento de los niveles máximos permisibles definidos por la Resolución 2254 del 2017 del Ministerio de Ambiente y Desarrollo Sostenible (MADS).
+
+Bajo esta normativa y con las diferentes fuentes de datos abiertas "open data" que son ofrecidas por parte de la alcaldía mayor de Bogotá y las entidades gubernamentales sobre diferentes aspectos de socio-económicos se busca desarrollar un prototipo que permita el aprovechamiento de estos datos para obtener la información suficiente para definir planes de acción y toma de decisiones que permitan tomar acciones preventivas que beneficien la calidad del aire en la ciudad de Bogotá.
+
+
+\newpage
+
+\part{Contextualización de la investigación}
+
+\include{Capitulos/Contextualizacion.tex}
+
+\part{Desarrollo de la investigación}
+
+\include{Capitulos/Desarrollo.tex}
+
+\part{Cierre de la investigación}
+
+\include{Capitulos/Cierre.tex}
+
+\newpage
+
+\bibbysection[heading=bibbysubsect]
+
+\end{document}
