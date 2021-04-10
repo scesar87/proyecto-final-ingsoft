@@ -2359,6 +2359,17 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">bibliografia.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="2">
+    <bcf:citekey order="1">ROMEROPLACERES2006</bcf:citekey>
+    <bcf:citekey order="2">BALLESTERDIEZ1999</bcf:citekey>
+    <bcf:citekey order="3">MARTIVALLS2017511</bcf:citekey>
+    <bcf:citekey order="4">GAITAN2007</bcf:citekey>
+    <bcf:citekey order="5">GAVIRIAG2012</bcf:citekey>
+    <bcf:citekey order="6">RODRIGUEZ2015</bcf:citekey>
+    <bcf:citekey order="7">SHARMA2021</bcf:citekey>
+    <bcf:citekey order="8">VANEGAS2017235</bcf:citekey>
+    <bcf:citekey order="9">DPSSANCHEZDERIVERA</bcf:citekey>
+    <bcf:citekey order="10">JARAMILLOAYERBE2007</bcf:citekey>
+    <bcf:citekey order="11">MLCECILIA2011</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">

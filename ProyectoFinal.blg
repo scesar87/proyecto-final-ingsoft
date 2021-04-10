@@ -1,38 +1,30 @@
 [0] Config.pm:311> INFO - This is Biber 2.16
 [0] Config.pm:314> INFO - Logfile is 'ProyectoFinal.blg'
-[124] biber-MSWIN64:340> INFO - === 
+[125] biber-MSWIN64:340> INFO - === 
 [164] Biber.pm:415> INFO - Reading 'ProyectoFinal.bcf'
-[287] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
-[287] Biber.pm:952> INFO - Found 0 citekeys in bib section 1
-[287] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
-[287] Biber.pm:952> INFO - Found 14 citekeys in bib section 2
-[287] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
-[287] Biber.pm:952> INFO - Found 1 citekeys in bib section 3
-[287] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
+[288] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
+[288] Biber.pm:952> INFO - Found 0 citekeys in bib section 1
+[288] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
+[288] Biber.pm:952> INFO - Found 11 citekeys in bib section 2
+[288] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
+[288] Biber.pm:952> INFO - Found 0 citekeys in bib section 3
+[288] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
 [288] Biber.pm:952> INFO - Found 0 citekeys in bib section 4
 [288] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
 [288] Biber.pm:952> INFO - Found 0 citekeys in bib section 5
 [288] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
-[288] Biber.pm:952> INFO - Found 0 citekeys in bib section 6
-[288] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
-[288] Biber.pm:952> INFO - Found 0 citekeys in bib section 7
-[288] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
-[288] Biber.pm:952> INFO - Found 0 citekeys in bib section 8
-[288] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
-[352] Biber.pm:4340> INFO - Processing section 2
-[365] Biber.pm:4531> INFO - Looking for bibtex format file 'bibliografia.bib' for section 2
-[419] bibtex.pm:1689> INFO - LaTeX decoding ...
-[465] bibtex.pm:1494> INFO - Found BibTeX data source 'bibliografia.bib'
-[516] Utils.pm:395> WARN - legacy month field 'mar' in entry 'HederichMartinez2019' is not an integer - this will probably not sort properly.
-[543] Utils.pm:395> WARN - legacy month field 'jul' in entry 'GonzalezAguna2015' is not an integer - this will probably not sort properly.
-[584] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[584] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[584] Biber.pm:4168> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'es-ES'
-[599] Biber.pm:4340> INFO - Processing section 3
-[600] Biber.pm:4531> INFO - Looking for bibtex format file 'bibliografia.bib' for section 3
-[636] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[637] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[637] Biber.pm:4168> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'es-ES'
-[638] bbl.pm:654> INFO - Writing 'ProyectoFinal.bbl' with encoding 'UTF-8'
-[646] bbl.pm:757> INFO - Output to ProyectoFinal.bbl
-[651] Biber.pm:128> INFO - WARNINGS: 2
+[289] Biber.pm:952> INFO - Found 0 citekeys in bib section 6
+[289] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
+[289] Biber.pm:952> INFO - Found 0 citekeys in bib section 7
+[289] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
+[289] Biber.pm:952> INFO - Found 0 citekeys in bib section 8
+[289] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
+[353] Biber.pm:4340> INFO - Processing section 2
+[366] Biber.pm:4531> INFO - Looking for bibtex format file 'bibliografia.bib' for section 2
+[423] bibtex.pm:1689> INFO - LaTeX decoding ...
+[450] bibtex.pm:1494> INFO - Found BibTeX data source 'bibliografia.bib'
+[541] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[541] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[541] Biber.pm:4168> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'es-ES'
+[554] bbl.pm:654> INFO - Writing 'ProyectoFinal.bbl' with encoding 'UTF-8'
+[561] bbl.pm:757> INFO - Output to ProyectoFinal.bbl

@@ -33,62 +33,62 @@
 \defcounter {refsection}{2}\relax 
 \contentsline {subsection}{\numberline {1.6.1}Marco teórico}{7}{}%
 \defcounter {refsection}{2}\relax 
-\contentsline {subsection}{\numberline {1.6.2}Marco conceptual}{8}{}%
+\contentsline {subsection}{\numberline {1.6.2}Marco conceptual}{9}{}%
 \defcounter {refsection}{2}\relax 
-\contentsline {subsubsection}{Ciencia de los datos}{8}{}%
+\contentsline {subsubsection}{Ciencia de los datos}{9}{}%
 \defcounter {refsection}{2}\relax 
-\contentsline {subsubsection}{Componente ambiental}{8}{}%
+\contentsline {subsubsection}{Componente ambiental}{10}{}%
 \defcounter {refsection}{2}\relax 
-\contentsline {subsubsection}{Calidad del aire}{8}{}%
+\contentsline {subsubsection}{Calidad del aire}{10}{}%
 \defcounter {refsection}{2}\relax 
-\contentsline {subsubsection}{Aire y contaminación}{9}{}%
+\contentsline {subsubsection}{Aire y contaminación}{11}{}%
 \defcounter {refsection}{2}\relax 
-\contentsline {subsubsection}{Red de monitoreo de calidad del aire de Bogotá}{9}{}%
+\contentsline {subsubsection}{Red de monitoreo de calidad del aire de Bogotá}{11}{}%
 \defcounter {refsection}{2}\relax 
-\contentsline {subsubsection}{Información de contaminantes}{10}{}%
+\contentsline {subsubsection}{Información de contaminantes}{11}{}%
 \defcounter {refsection}{2}\relax 
-\contentsline {subsubsection}{Niveles máximos permisibles de contaminantes criterio en el aire}{11}{}%
+\contentsline {subsubsection}{Niveles máximos permisibles de contaminantes criterio en el aire}{13}{}%
 \defcounter {refsection}{2}\relax 
-\contentsline {subsubsection}{Machine Learning}{12}{}%
+\contentsline {subsubsection}{Machine Learning}{14}{}%
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {1.7}Aspectos metodológicos}{15}{}%
+\contentsline {section}{\numberline {1.7}Aspectos metodológicos}{17}{}%
 \defcounter {refsection}{2}\relax 
-\contentsline {subsection}{\numberline {1.7.1}Tipo de estudio}{15}{}%
+\contentsline {subsection}{\numberline {1.7.1}Tipo de estudio}{17}{}%
 \defcounter {refsection}{2}\relax 
-\contentsline {subsection}{\numberline {1.7.2}Metodología de investigación}{15}{}%
+\contentsline {subsection}{\numberline {1.7.2}Metodología de investigación}{17}{}%
 \defcounter {refsection}{2}\relax 
-\contentsline {subsection}{\numberline {1.7.3}Fuentes y técnicas para la recolección de información}{16}{}%
+\contentsline {subsection}{\numberline {1.7.3}Fuentes y técnicas para la recolección de información}{17}{}%
 \defcounter {refsection}{1}\relax 
 \contentsline {xpart}{Contextualización de la investigación}{5}{}%
 \defcounter {refsection}{2}\relax 
-\contentsline {part}{II\hspace {1em}Desarrollo de la investigación}{18}{}%
+\contentsline {part}{II\hspace {1em}Desarrollo de la investigación}{19}{}%
 \defcounter {refsection}{2}\relax 
-\contentsline {chapter}{\numberline {2}Desarrollo de la investigación}{19}{}%
+\contentsline {chapter}{\numberline {2}Desarrollo de la investigación}{20}{}%
 \defcounter {refsection}{3}\relax 
-\contentsline {chapter}{\numberline {3}Arquitectura de la aplicación}{20}{}%
+\contentsline {chapter}{\numberline {3}Arquitectura de la aplicación}{21}{}%
 \defcounter {refsection}{4}\relax 
-\contentsline {chapter}{\numberline {4}Modelado de los datos}{21}{}%
+\contentsline {chapter}{\numberline {4}Modelado de los datos}{22}{}%
 \defcounter {refsection}{2}\relax 
-\contentsline {xpart}{Desarrollo de la investigación}{19}{}%
+\contentsline {xpart}{Desarrollo de la investigación}{20}{}%
 \defcounter {refsection}{5}\relax 
-\contentsline {part}{III\hspace {1em}Cierre de la investigación}{22}{}%
+\contentsline {part}{III\hspace {1em}Cierre de la investigación}{23}{}%
 \defcounter {refsection}{5}\relax 
-\contentsline {chapter}{\numberline {5}Resultados y discusión}{23}{}%
+\contentsline {chapter}{\numberline {5}Resultados y discusión}{24}{}%
 \defcounter {refsection}{6}\relax 
-\contentsline {chapter}{\numberline {6}Conclusiones}{24}{}%
+\contentsline {chapter}{\numberline {6}Conclusiones}{25}{}%
 \defcounter {refsection}{7}\relax 
-\contentsline {section}{\numberline {6.1}Verificación, contraste y evaluación de los objetivos}{24}{}%
+\contentsline {section}{\numberline {6.1}Verificación, contraste y evaluación de los objetivos}{25}{}%
 \defcounter {refsection}{7}\relax 
-\contentsline {section}{\numberline {6.2}Síntesis del modelo propuesto}{24}{}%
+\contentsline {section}{\numberline {6.2}Síntesis del modelo propuesto}{25}{}%
 \defcounter {refsection}{7}\relax 
-\contentsline {section}{\numberline {6.3}Aportes originales}{24}{}%
+\contentsline {section}{\numberline {6.3}Aportes originales}{25}{}%
 \defcounter {refsection}{7}\relax 
-\contentsline {section}{\numberline {6.4}Trabajos o Publicaciones derivadas}{24}{}%
+\contentsline {section}{\numberline {6.4}Trabajos o Publicaciones derivadas}{25}{}%
 \defcounter {refsection}{7}\relax 
-\contentsline {chapter}{\numberline {7}Prospectiva del trabajo de grado}{25}{}%
+\contentsline {chapter}{\numberline {7}Prospectiva del trabajo de grado}{26}{}%
 \defcounter {refsection}{8}\relax 
-\contentsline {section}{\numberline {7.1}Líneas de investigación futuras}{25}{}%
+\contentsline {section}{\numberline {7.1}Líneas de investigación futuras}{26}{}%
 \defcounter {refsection}{8}\relax 
-\contentsline {section}{\numberline {7.2}Trabajos de Investigación futuros}{25}{}%
+\contentsline {section}{\numberline {7.2}Trabajos de Investigación futuros}{26}{}%
 \defcounter {refsection}{5}\relax 
-\contentsline {xpart}{Cierre de la investigación}{23}{}%
+\contentsline {xpart}{Cierre de la investigación}{24}{}%

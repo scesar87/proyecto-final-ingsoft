@@ -19,514 +19,462 @@
 
 \refsection{2}
   \datalist[entry]{none/global//global/global}
-    \entry{Fernandez2017}{article}{}
-      \name{author}{1}{}{%
-        {{hash=97c7821799f315764488e1b8cc60eaa0}{%
-           family={Fernandez},
-           familyi={F\bibinitperiod},
+    \entry{ROMEROPLACERES2006}{article}{}
+      \name{author}{3}{}{%
+        {{hash=e059a6a08649d124b562e05749e2f2a3}{%
+           family={Romero\bibnamedelima Placeres},
+           familyi={R\bibinitperiod\bibinitdelim P\bibinitperiod},
            given={Manuel},
            giveni={M\bibinitperiod}}}%
+        {{hash=3157e0fe8c7c0340c546ebc28c47d13e}{%
+           family={Diego\bibnamedelima Olite},
+           familyi={D\bibinitperiod\bibinitdelim O\bibinitperiod},
+           given={Francisca},
+           giveni={F\bibinitperiod}}}%
+        {{hash=2f5c2dd3e24ca703ec6e455696abcc1d}{%
+           family={Álvarez\bibnamedelima Toste},
+           familyi={Á\bibinitperiod\bibinitdelim T\bibinitperiod},
+           given={Mireya},
+           giveni={M\bibinitperiod}}}%
       }
-      \strng{namehash}{97c7821799f315764488e1b8cc60eaa0}
-      \strng{fullhash}{97c7821799f315764488e1b8cc60eaa0}
-      \strng{bibnamehash}{97c7821799f315764488e1b8cc60eaa0}
-      \strng{authorbibnamehash}{97c7821799f315764488e1b8cc60eaa0}
-      \strng{authornamehash}{97c7821799f315764488e1b8cc60eaa0}
-      \strng{authorfullhash}{97c7821799f315764488e1b8cc60eaa0}
+      \list{language}{1}{%
+        {es}%
+      }
+      \list{publisher}{1}{%
+        {scielocu}%
+      }
+      \strng{namehash}{0fe26ae1e8d2039e320395695f0c2113}
+      \strng{fullhash}{0fe26ae1e8d2039e320395695f0c2113}
+      \strng{bibnamehash}{0fe26ae1e8d2039e320395695f0c2113}
+      \strng{authorbibnamehash}{0fe26ae1e8d2039e320395695f0c2113}
+      \strng{authornamehash}{0fe26ae1e8d2039e320395695f0c2113}
+      \strng{authorfullhash}{0fe26ae1e8d2039e320395695f0c2113}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{{<}p{>}This essay presents and discusses the developing role of virtual and augmented reality technologies in education. Addressing the challenges in adapting such technologies to focus on improving students' learning outcomes, the author discusses the inclusion of experiential modes as a vehicle for improving students' knowledge acquisition. Stakeholders in the educational role of technology include students, faculty members, institutions, and manufacturers. While the benefits of such technologies are still under investigation, the technology landscape offers opportunities to enhance face-to-face and online teaching, including contributions in the understanding of abstract concepts and training in real environments and situations. Barriers to technology use involve limited adoption of augmented and virtual reality technologies, and, more directly, necessary training of teachers in using such technologies within meaningful educational contexts. The author proposes a six-step methodology to aid adoption of these technologies as basic elements within the regular education: training teachers; developing conceptual prototypes; teamwork involving the teacher, a technical programmer, and an educational architect; and producing the experience, which then provides results in the subsequent two phases wherein teachers are trained to apply augmented- and virtual-reality solutions within their teaching methodology using an available subject-specific experience and then finally implementing the use of the experience in a regular subject with students. The essay concludes with discussion of the business opportunities facing virtual reality in face-to-face education as well as augmented and virtual reality in online education.{<}/p{>}}
-      \field{issn}{2157-6254}
-      \field{journaltitle}{Higher Learning Research Communications}
-      \field{title}{{Augmented-Virtual Reality: How to improve education systems}}
-      \field{year}{2017}
-      \verb{doi}
-      \verb 10.18870/hlrc.v7i1.373
+      \field{issn}{1561-3003}
+      \field{journaltitle}{Revista Cubana de Higiene y Epidemiología}
+      \field{month}{08}
+      \field{title}{La contaminación del aire: su repercusión como problema de salud}
+      \field{volume}{44}
+      \field{year}{2006}
+      \verb{urlraw}
+      \verb http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S1561-30032006000200008&nrm=iso
+      \endverb
+      \verb{url}
+      \verb http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S1561-30032006000200008&nrm=iso
       \endverb
     \endentry
-    \entry{Dede2009}{misc}{}
-      \name{author}{1}{}{%
-        {{hash=ac0093148ec67e52919a914af8e11e39}{%
-           family={Dede},
-           familyi={D\bibinitperiod},
-           given={Chris},
-           giveni={C\bibinitperiod}}}%
+    \entry{BALLESTERDIEZ1999}{article}{}
+      \name{author}{3}{}{%
+        {{hash=2dbae5231ed2e7681a7ee308de837c17}{%
+           family={Ballester\bibnamedelima Díez},
+           familyi={B\bibinitperiod\bibinitdelim D\bibinitperiod},
+           given={Ferran},
+           giveni={F\bibinitperiod}}}%
+        {{hash=dde8b3dd18494ee7c7c2845c83c55318}{%
+           family={Tenías},
+           familyi={T\bibinitperiod},
+           given={José\bibnamedelima María},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=d142869a1c099ebaadce93cf0e17c0b7}{%
+           family={Pérez-Hoyos},
+           familyi={P\bibinithyphendelim H\bibinitperiod},
+           given={Santiago},
+           giveni={S\bibinitperiod}}}%
       }
-      \strng{namehash}{ac0093148ec67e52919a914af8e11e39}
-      \strng{fullhash}{ac0093148ec67e52919a914af8e11e39}
-      \strng{bibnamehash}{ac0093148ec67e52919a914af8e11e39}
-      \strng{authorbibnamehash}{ac0093148ec67e52919a914af8e11e39}
-      \strng{authornamehash}{ac0093148ec67e52919a914af8e11e39}
-      \strng{authorfullhash}{ac0093148ec67e52919a914af8e11e39}
+      \list{language}{1}{%
+        {es}%
+      }
+      \list{publisher}{1}{%
+        {scieloes}%
+      }
+      \strng{namehash}{c107cba99163954c950f40e5d2f8f682}
+      \strng{fullhash}{c107cba99163954c950f40e5d2f8f682}
+      \strng{bibnamehash}{c107cba99163954c950f40e5d2f8f682}
+      \strng{authorbibnamehash}{c107cba99163954c950f40e5d2f8f682}
+      \strng{authornamehash}{c107cba99163954c950f40e5d2f8f682}
+      \strng{authorfullhash}{c107cba99163954c950f40e5d2f8f682}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Immersion is the subjective impression that one is participating in a comprehensive, realistic experience. Interactive media now enable various degrees of digital immersion. The more a virtual immersive experience is based on design strategies that combine actional, symbolic, and sensory factors, the greater the participant's suspension of disbelief that she or he is "inside" a digitally enhanced setting. Studies have shown that immersion in a digital environment can enhance education in at least three ways: by allowing multiple perspectives, situated learning, and transfer. Further studies are needed on the capabilities of immersive media for learning, on the instructional designs best suited to each type of immersive medium, and on the learning strengths and preferences these media develop in users.}
-      \field{booktitle}{Science}
-      \field{issn}{00368075}
-      \field{title}{{Immersive interfaces for engagement and learning}}
-      \field{year}{2009}
-      \verb{doi}
-      \verb 10.1126/science.1167311
+      \field{issn}{1135-5727}
+      \field{journaltitle}{Revista Española de Salud Pública}
+      \field{month}{03}
+      \field{title}{Efectos de la contaminación atmosférica sobre la salud: una introducción}
+      \field{volume}{73}
+      \field{year}{1999}
+      \field{pages}{109\bibrangedash 121}
+      \range{pages}{13}
+      \verb{urlraw}
+      \verb http://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S1135-57271999000200002&nrm=iso
+      \endverb
+      \verb{url}
+      \verb http://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S1135-57271999000200002&nrm=iso
       \endverb
     \endentry
-    \entry{Pan2006}{article}{}
-      \name{author}{5}{}{%
-        {{hash=a011a02043654335bc5513c80f0bedd8}{%
-           family={Pan},
-           familyi={P\bibinitperiod},
-           given={Zhigeng},
-           giveni={Z\bibinitperiod}}}%
-        {{hash=fd40b19dd3257b409d4a67c49669223a}{%
-           family={Cheok},
-           familyi={C\bibinitperiod},
-           given={Adrian\bibnamedelima David},
-           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
-        {{hash=1b421944a004dcc5dc09a2fb0e99caff}{%
-           family={Yang},
-           familyi={Y\bibinitperiod},
-           given={Hongwei},
-           giveni={H\bibinitperiod}}}%
-        {{hash=c34913734db8cf2eda79e147d4ff8401}{%
-           family={Zhu},
-           familyi={Z\bibinitperiod},
-           given={Jiejie},
-           giveni={J\bibinitperiod}}}%
-        {{hash=bbb08c898035f80c10af70bc4b738b75}{%
-           family={Shi},
-           familyi={S\bibinitperiod},
-           given={Jiaoying},
+    \entry{MARTIVALLS2017511}{article}{}
+      \name{author}{1}{}{%
+        {{hash=70acd73680d0d7f58792f4cfd9b41b05}{%
+           family={{Martí Valls}},
+           familyi={M\bibinitperiod},
+           given={J.},
            giveni={J\bibinitperiod}}}%
       }
-      \strng{namehash}{51a7c626a65824cfb8269f68db715cfd}
-      \strng{fullhash}{a91e14576dd5e3c7d458b6b0616cfdaa}
-      \strng{bibnamehash}{51a7c626a65824cfb8269f68db715cfd}
-      \strng{authorbibnamehash}{51a7c626a65824cfb8269f68db715cfd}
-      \strng{authornamehash}{51a7c626a65824cfb8269f68db715cfd}
-      \strng{authorfullhash}{a91e14576dd5e3c7d458b6b0616cfdaa}
+      \strng{namehash}{70acd73680d0d7f58792f4cfd9b41b05}
+      \strng{fullhash}{70acd73680d0d7f58792f4cfd9b41b05}
+      \strng{bibnamehash}{70acd73680d0d7f58792f4cfd9b41b05}
+      \strng{authorbibnamehash}{70acd73680d0d7f58792f4cfd9b41b05}
+      \strng{authornamehash}{70acd73680d0d7f58792f4cfd9b41b05}
+      \strng{authorfullhash}{70acd73680d0d7f58792f4cfd9b41b05}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{This paper explores educational uses of virtual learning environment (VLE) concerned with issues of learning, training and entertainment. We analyze the state-of-art research of VLE based on virtual reality and augmented reality. Some examples for the purpose of education and simulation are described. These applications show that VLE can be means of enhancing, motivating and stimulating learners' understanding of certain events, especially those for which the traditional notion of instructional learning have proven inappropriate or difficult. Furthermore, the users can learn in a quick and happy mode by playing in the virtual environments. {©} 2005 Elsevier Ltd. All rights reserved.}
-      \field{issn}{00978493}
-      \field{journaltitle}{Computers and Graphics (Pergamon)}
-      \field{title}{{Virtual reality and mixed reality for virtual learning environments}}
-      \field{year}{2006}
+      \field{issn}{1134-2072}
+      \field{journaltitle}{FMC - Formación Médica Continuada en Atención Primaria}
+      \field{number}{9}
+      \field{title}{Efectos de la calidad del aire sobre la salud}
+      \field{volume}{24}
+      \field{year}{2017}
+      \field{pages}{511\bibrangedash 514}
+      \range{pages}{4}
       \verb{doi}
-      \verb 10.1016/j.cag.2005.10.004
+      \verb https://doi.org/10.1016/j.fmc.2017.03.004
       \endverb
-      \keyw{Cooperative/collaborative,Edutainment,Mixed reality,Virtual learning environment (VLE),Virtual reality}
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S1134207217301299
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S1134207217301299
+      \endverb
+      \keyw{Contaminación,Atmósfera,Determinante de salud}
     \endentry
-    \entry{Legaki2020}{article}{}
-      \name{author}{5}{}{%
-        {{hash=eaf320b604c138ff8bd8bc7204f7ec6b}{%
-           family={Legaki},
-           familyi={L\bibinitperiod},
-           given={Nikoletta\bibnamedelima Zampeta},
-           giveni={N\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
-        {{hash=7d0b380db5bc68d8140b831bb5e302e6}{%
-           family={Xi},
-           familyi={X\bibinitperiod},
-           given={Nannan},
-           giveni={N\bibinitperiod}}}%
-        {{hash=57c059873972ac3bb360bc05ba0a18f1}{%
-           family={Hamari},
-           familyi={H\bibinitperiod},
-           given={Juho},
+    \entry{GAITAN2007}{article}{}
+      \name{author}{3}{}{%
+        {{hash=44171c73c949a97097aab6bb659cd078}{%
+           family={Gaitán},
+           familyi={G\bibinitperiod},
+           given={Mauricio},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b615527a2f9a2ff83f47d785a6b41512}{%
+           family={Cancino},
+           familyi={C\bibinitperiod},
+           given={Juliana},
            giveni={J\bibinitperiod}}}%
-        {{hash=ad1c903ce9db10988f35d350c2c64da3}{%
-           family={Karpouzis},
-           familyi={K\bibinitperiod},
-           given={Kostas},
-           giveni={K\bibinitperiod}}}%
-        {{hash=c84a88720d8401a0259918f2eb3bec78}{%
-           family={Assimakopoulos},
-           familyi={A\bibinitperiod},
-           given={Vassilios},
-           giveni={V\bibinitperiod}}}%
+        {{hash=72c838fe33e8002f768a44df6f13739a}{%
+           family={Behrentz},
+           familyi={B\bibinitperiod},
+           given={Eduardo},
+           giveni={E\bibinitperiod}}}%
       }
-      \strng{namehash}{03d6679384afdd74196369539aa1b3dd}
-      \strng{fullhash}{428fe9e79e5093b2099b01acd515b6e6}
-      \strng{bibnamehash}{03d6679384afdd74196369539aa1b3dd}
-      \strng{authorbibnamehash}{03d6679384afdd74196369539aa1b3dd}
-      \strng{authornamehash}{03d6679384afdd74196369539aa1b3dd}
-      \strng{authorfullhash}{428fe9e79e5093b2099b01acd515b6e6}
+      \list{language}{1}{%
+        {es}%
+      }
+      \list{publisher}{1}{%
+        {scieloco}%
+      }
+      \strng{namehash}{3d16d9aa890b51583a29b2771d699d42}
+      \strng{fullhash}{3d16d9aa890b51583a29b2771d699d42}
+      \strng{bibnamehash}{3d16d9aa890b51583a29b2771d699d42}
+      \strng{authorbibnamehash}{3d16d9aa890b51583a29b2771d699d42}
+      \strng{authornamehash}{3d16d9aa890b51583a29b2771d699d42}
+      \strng{authorfullhash}{3d16d9aa890b51583a29b2771d699d42}
       \field{sortinit}{4}
       \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Gamification is increasingly employed in learning environments as a way to increase student motivation and consequent learning outcomes. However, while the research on the effectiveness of gamification in the context of education has been growing, there are blind spots regarding which types of gamification may be suitable for different educational contexts. This study investigates the effects of the challenge-based gamification on learning in the area of statistics education. We developed a gamification approach, called Horses for Courses, which is composed of main game design patterns related to the challenge-based gamification; points, levels, challenges and a leaderboard. Having conducted a 2 (read: yes vs. no) x 2 (gamification: yes vs. no) between-subject experiment, we present a quantitative analysis of the performance of 365 students from two different academic majors: Electrical and Computer Engineering (n=279), and Business Administration (n=86). The results of our experiments show that the challenge-based gamification had a positive impact on student learning compared to traditional teaching methods (compared to having no treatment and treatment involving reading exercises). The effect was larger for females or for students at the School of Electrical and Computer Engineering.}
-      \field{issn}{10959300}
-      \field{journaltitle}{International Journal of Human Computer Studies}
-      \field{title}{{The effect of challenge-based gamification on learning: An experiment in the context of statistics education}}
-      \field{year}{2020}
-      \verb{doi}
-      \verb 10.1016/j.ijhcs.2020.102496
+      \field{issn}{0121-4993}
+      \field{journaltitle}{Revista de Ingenieria}
+      \field{month}{11}
+      \field{title}{Análisis del estado de la calidad del aire en Bogotá}
+      \field{year}{2007}
+      \field{pages}{81\bibrangedash 92}
+      \range{pages}{12}
+      \verb{urlraw}
+      \verb http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0121-49932007000200011&nrm=iso
       \endverb
-      \keyw{Applications in education,Gamification,Human-Computer interface,Statistics education,Teaching forecasting}
+      \verb{url}
+      \verb http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0121-49932007000200011&nrm=iso
+      \endverb
     \endentry
-    \entry{FigueroaFlores2015}{misc}{}
-      \name{author}{1}{}{%
-        {{hash=a5c795131bec2f34829db70320482197}{%
-           family={{Figueroa Flores}},
-           familyi={F\bibinitperiod},
-           given={Jorge\bibnamedelima Francisco},
-           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+    \entry{GAVIRIAG2012}{article}{}
+      \name{author}{3}{}{%
+        {{hash=39c71ac7490ed32402a1c9f9cb6bdd03}{%
+           family={Gaviria\bibnamedelima G},
+           familyi={G\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Carlos\bibnamedelima F.},
+           giveni={C\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=a209bb00f765dfabeb8f23af36742bb3}{%
+           family={MuÃ\pmoz\bibnamedelima M},
+           familyi={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Juan\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=1e7987447b5733825625a5a1fd2137e6}{%
+           family={González},
+           familyi={G\bibinitperiod},
+           given={Gabriel\bibnamedelima J.},
+           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
       }
-      \strng{namehash}{a5c795131bec2f34829db70320482197}
-      \strng{fullhash}{a5c795131bec2f34829db70320482197}
-      \strng{bibnamehash}{a5c795131bec2f34829db70320482197}
-      \strng{authorbibnamehash}{a5c795131bec2f34829db70320482197}
-      \strng{authornamehash}{a5c795131bec2f34829db70320482197}
-      \strng{authorfullhash}{a5c795131bec2f34829db70320482197}
+      \list{language}{1}{%
+        {es}%
+      }
+      \list{publisher}{1}{%
+        {scieloco}%
+      }
+      \strng{namehash}{eb304626f19f11d22e55efe1735037d4}
+      \strng{fullhash}{eb304626f19f11d22e55efe1735037d4}
+      \strng{bibnamehash}{eb304626f19f11d22e55efe1735037d4}
+      \strng{authorbibnamehash}{eb304626f19f11d22e55efe1735037d4}
+      \strng{authornamehash}{eb304626f19f11d22e55efe1735037d4}
+      \strng{authorfullhash}{eb304626f19f11d22e55efe1735037d4}
       \field{sortinit}{5}
       \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{One major competence for learners in the 21st century is acquiring a second language (L2). Based on this, L2 instruction has integrated new concepts to motivate learners in their pursue of achieving fluency. A concept that is adaptable to digital natives and digital immigrants that are learning a L2 is Gamification. As a pedagogical strategy, Gamification is basically new, but it has been used successfully in the business world. Gamification not only uses game elements and game design techniques in non-game contexts (Werbach {\&} Hunter, 2012), but also empowers and engages the learner with motivational skills towards a learning approach and sustaining a relax atmosphere. This personality factor as Brown (1994) addresses is fundamental in the teaching and learning of L2. This article covers aspects regarding language, second language learning methodology and approaches, an overview of the integration of technology towards L2 instruction, Gamification as a concept, motivational theory, educational implications for integrating the strategy effectively, and current applications used. It also calls for a necessity of empirical evidence and research in regards to the strategy.}
-      \field{booktitle}{Digital Education Review}
-      \field{issn}{20139144}
-      \field{title}{{Using Gamification to enhance second language learning}}
-      \field{year}{2015}
-      \verb{doi}
-      \verb 10.1344/der.2015.27.32-54
+      \field{issn}{0120-386X}
+      \field{journaltitle}{Revista Facultad Nacional de Salud Pública}
+      \field{month}{12}
+      \field{title}{Contaminación del aire y vulnerabilidad de individuos expuestos: un caso de estudio para el centro de Medellín}
+      \field{volume}{30}
+      \field{year}{2012}
+      \field{pages}{316\bibrangedash 327}
+      \range{pages}{12}
+      \verb{urlraw}
+      \verb http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0120-386X2012000300008&nrm=iso
       \endverb
-      \keyw{Gamification,Motivational theory,Second language learning,Student engagement}
+      \verb{url}
+      \verb http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0120-386X2012000300008&nrm=iso
+      \endverb
     \endentry
-    \entry{HederichMartinez2019}{article}{}
-      \name{author}{2}{}{%
-        {{hash=f8f5dc68c8149bbbc25b0a580274ac61}{%
-           family={{Hederich Martínez}},
-           familyi={H\bibinitperiod},
-           given={Christian},
-           giveni={C\bibinitperiod}}}%
-        {{hash=1578b949b9a4f1273cb98678020fe4f3}{%
-           family={{Camargo Uribe}},
-           familyi={C\bibinitperiod},
-           given={Angela},
-           giveni={A\bibinitperiod}}}%
+    \entry{RODRIGUEZ2015}{article}{}
+      \name{author}{1}{}{%
+        {{hash=178cdee0dcd492c387ccac8484746fe7}{%
+           family={Rodríguez},
+           familyi={R\bibinitperiod},
+           given={H.\bibnamedelimi M.},
+           giveni={H\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
       }
-      \strng{namehash}{8f7bd59deb94fb114b623f6ca43b4711}
-      \strng{fullhash}{8f7bd59deb94fb114b623f6ca43b4711}
-      \strng{bibnamehash}{8f7bd59deb94fb114b623f6ca43b4711}
-      \strng{authorbibnamehash}{8f7bd59deb94fb114b623f6ca43b4711}
-      \strng{authornamehash}{8f7bd59deb94fb114b623f6ca43b4711}
-      \strng{authorfullhash}{8f7bd59deb94fb114b623f6ca43b4711}
+      \list{language}{1}{%
+        {es}%
+      }
+      \strng{namehash}{178cdee0dcd492c387ccac8484746fe7}
+      \strng{fullhash}{178cdee0dcd492c387ccac8484746fe7}
+      \strng{bibnamehash}{178cdee0dcd492c387ccac8484746fe7}
+      \strng{authorbibnamehash}{178cdee0dcd492c387ccac8484746fe7}
+      \strng{authornamehash}{178cdee0dcd492c387ccac8484746fe7}
+      \strng{authorfullhash}{178cdee0dcd492c387ccac8484746fe7}
       \field{sortinit}{6}
       \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{{<}p{>}El artículo es una revisión crítica del modelo de patrones de aprendizaje de J. Vermunt para la consideración de diferencias individuales en el aprendizaje. Luego de una descripción del modelo, sus principales características y el instrumento ILS ({<}em{>}Inventory of Learning Styles{<}/em{>}) utilizado para su operacionalización, el escrito lleva a cabo un análisis crítico de tres de los aspectos que se consideran problemáticos en la propuesta: la definición del patrón “no dirigido” y su operacionalización en ILS; el sesgo cultural eurocéntrico presente en el modelo y el bajo grado de concordancia entre el modelo y los parámetros de lo que se concibe como educación formal en el contexto universitario. El artículo concluye con una serie de propuestas constructivas que pretenden contribuir a precisar y universalizar el modelo.{<}/p{>}}
-      \field{journaltitle}{Revista Colombiana de Educación}
-      \field{month}{3}
-      \field{number}{77 SE -}
-      \field{title}{{Revisión crítica del modelo de patrones de aprendizaje de J. Vermunt}}
-      \field{volume}{1}
-      \field{year}{2019}
-      \verb{doi}
-      \verb 10.17227/rce.num77-9469
-      \endverb
+      \field{journaltitle}{Repositorio Instituciona UMNG}
+      \field{title}{Aplicación de métodos de interpolación y modelamiento geoestadístico en la evaluación de la calidad del aire en Bogotá D.C.}
+      \field{year}{2015}
       \verb{urlraw}
-      \verb https://revistas.pedagogica.edu.co/index.php/RCE/article/view/9469
+      \verb http://hdl.handle.net/10654/13446.
       \endverb
       \verb{url}
-      \verb https://revistas.pedagogica.edu.co/index.php/RCE/article/view/9469
+      \verb http://hdl.handle.net/10654/13446.
       \endverb
     \endentry
-    \entry{Rivera2013}{inbook}{}
-      \name{author}{1}{}{%
-        {{hash=53e2e7ec8bbe98c5d7e24828a45c793e}{%
-           family={Rivera},
-           familyi={R\bibinitperiod},
-           given={Ferdinand},
-           giveni={F\bibinitperiod}}}%
+    \entry{SHARMA2021}{article}{}
+      \name{author}{3}{}{%
+        {{hash=456a418aea7ae0c912ac5bbd1258f60a}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={Neha},
+           giveni={N\bibinitperiod}}}%
+        {{hash=bbed595a7d021c4116af35dc3cfa0b85}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={Reecha},
+           giveni={R\bibinitperiod}}}%
+        {{hash=eb3b7bd8ddc6fdc50673892748b49344}{%
+           family={Jindal},
+           familyi={J\bibinitperiod},
+           given={Neeru},
+           giveni={N\bibinitperiod}}}%
       }
-      \list{location}{1}{%
-        {Dordrecht}%
-      }
-      \list{publisher}{1}{%
-        {Springer Netherlands}%
-      }
-      \strng{namehash}{53e2e7ec8bbe98c5d7e24828a45c793e}
-      \strng{fullhash}{53e2e7ec8bbe98c5d7e24828a45c793e}
-      \strng{bibnamehash}{53e2e7ec8bbe98c5d7e24828a45c793e}
-      \strng{authorbibnamehash}{53e2e7ec8bbe98c5d7e24828a45c793e}
-      \strng{authornamehash}{53e2e7ec8bbe98c5d7e24828a45c793e}
-      \strng{authorfullhash}{53e2e7ec8bbe98c5d7e24828a45c793e}
+      \strng{namehash}{8f82b7a581d4545cca1e110532c4b47c}
+      \strng{fullhash}{8f82b7a581d4545cca1e110532c4b47c}
+      \strng{bibnamehash}{8f82b7a581d4545cca1e110532c4b47c}
+      \strng{authorbibnamehash}{8f82b7a581d4545cca1e110532c4b47c}
+      \strng{authornamehash}{8f82b7a581d4545cca1e110532c4b47c}
+      \strng{authorfullhash}{8f82b7a581d4545cca1e110532c4b47c}
       \field{sortinit}{7}
       \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{In this chapter, we paint in broad strokes issues on pattern generalization in school mathematical contexts that we explore in this book over several chapters. We clarify what we mean by patterns, structures, and pattern generalization activity. Readers are also introduced to the basic characteristic features of our proposed theory of graded pattern generalization processing. We end the chapter with an overview of the remaining chapters.}
-      \field{booktitle}{Teaching and Learning Patterns in School Mathematics: Psychological and Pedagogical Considerations}
-      \field{isbn}{978-94-007-2712-0}
-      \field{title}{{Introduction}}
-      \field{year}{2013}
-      \field{pages}{1\bibrangedash 24}
-      \range{pages}{24}
+      \field{issn}{2666-285X}
+      \field{journaltitle}{Global Transitions Proceedings}
+      \field{title}{Machine Learning and Deep Learning Applications-A Vision}
+      \field{year}{2021}
       \verb{doi}
-      \verb 10.1007/978-94-007-2712-0_1
+      \verb https://doi.org/10.1016/j.gltp.2021.01.004
       \endverb
       \verb{urlraw}
-      \verb https://doi.org/10.1007/978-94-007-2712-0{\_}1
+      \verb https://www.sciencedirect.com/science/article/pii/S2666285X21000042
       \endverb
       \verb{url}
-      \verb https://doi.org/10.1007/978-94-007-2712-0%7B%5C_%7D1
+      \verb https://www.sciencedirect.com/science/article/pii/S2666285X21000042
       \endverb
+      \keyw{Deep neural learning (DL),Machine Learning (ML),Machine intelligence (Artificial intelligence-AL)}
     \endentry
-    \entry{Clements2014}{book}{}
+    \entry{VANEGAS2017235}{article}{}
       \name{author}{2}{}{%
-        {{hash=8fe32997c4e914a775ff41574ab07d88}{%
-           family={Clements},
-           familyi={C\bibinitperiod},
-           given={Douglas;},
-           giveni={D\bibinitperiod}}}%
-        {{hash=027345e8338dc045e88c32933354e7a4}{%
-           family={Sarama},
-           familyi={S\bibinitperiod},
-           given={Julie.},
+        {{hash=3e2e97890eaf3ce7af25e311b9767847}{%
+           family={Vanegas},
+           familyi={V\bibinitperiod},
+           given={Jairo},
            giveni={J\bibinitperiod}}}%
+        {{hash=e94fd2328908828f87e71cdb93b9796d}{%
+           family={Vásquez},
+           familyi={V\bibinitperiod},
+           given={Fabián},
+           giveni={F\bibinitperiod}}}%
       }
-      \strng{namehash}{7afe5bbecc8ef303710bf31d93beafd8}
-      \strng{fullhash}{7afe5bbecc8ef303710bf31d93beafd8}
-      \strng{bibnamehash}{7afe5bbecc8ef303710bf31d93beafd8}
-      \strng{authorbibnamehash}{7afe5bbecc8ef303710bf31d93beafd8}
-      \strng{authornamehash}{7afe5bbecc8ef303710bf31d93beafd8}
-      \strng{authorfullhash}{7afe5bbecc8ef303710bf31d93beafd8}
+      \strng{namehash}{434e073056b97b99ef417fe124856408}
+      \strng{fullhash}{434e073056b97b99ef417fe124856408}
+      \strng{bibnamehash}{434e073056b97b99ef417fe124856408}
+      \strng{authorbibnamehash}{434e073056b97b99ef417fe124856408}
+      \strng{authornamehash}{434e073056b97b99ef417fe124856408}
+      \strng{authorfullhash}{434e073056b97b99ef417fe124856408}
       \field{sortinit}{8}
       \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{In this important book for pre- and in- service teachers, early math experts Douglas Clements and Julie Sarama show how “learning trajectories” help diagnose a child's level of mathematical under- standing and provide guidance for teaching. By focusing on the inherent delight and curiosity behind young children's mathematical reasoning, learning trajectories ultimately make teaching more joyous. They help teachers understand the varying levels of knowledge exhibited by individual students, which, in turn, allows them to better meet the learning needs of all children. Using straight- forward, no- nonsense language, this book summarizes the current research about how children learn mathematics, and how teachers can build on what children already know to realize more effec- tive teaching. This second edition of Learning and Teaching Early Math remains the defi nitive, research- based resource to help teachers understand the learning trajectories of early mathematics and thus to become quintessential professionals. Updates to the new edition include: • Explicit connections between “learning trajectories” and the Common Core State Standards; • New coverage of patterns and patterning; • The incorporation of hundreds of recent research studies. Douglas}
-      \field{booktitle}{Routledge}
-      \field{title}{{Learning and Teaching Early Math. The Learning Trajectories Approach}}
-      \field{year}{2014}
+      \field{issn}{0213-9111}
+      \field{journaltitle}{Gaceta Sanitaria}
+      \field{number}{3}
+      \field{title}{Multivariate Adaptative Regression Splines (MARS), una alternativa para el análisis de series de tiempo}
+      \field{volume}{31}
+      \field{year}{2017}
+      \field{pages}{235\bibrangedash 237}
+      \range{pages}{3}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.gaceta.2016.10.003
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0213911116302540
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0213911116302540
+      \endverb
     \endentry
-    \entry{GonzalezAguna2015}{article}{}
+    \entry{DPSSANCHEZDERIVERA}{article}{}
       \name{author}{1}{}{%
-        {{hash=1554a750230f24805cfbdcdc82d3e9db}{%
-           family={{González Aguña}},
-           familyi={G\bibinitperiod},
-           given={Alexandra},
-           giveni={A\bibinitperiod}}}%
+        {{hash=34c7b4db06493fef6422e1aa768ddea8}{%
+           family={Daniel\bibnamedelimb Peña\bibnamedelimb Sánchez\bibnamedelimb de\bibnamedelima Rivera},
+           familyi={D\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Ismael\bibnamedelima Sánchez},
+           giveni={I\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
       }
-      \strng{namehash}{1554a750230f24805cfbdcdc82d3e9db}
-      \strng{fullhash}{1554a750230f24805cfbdcdc82d3e9db}
-      \strng{bibnamehash}{1554a750230f24805cfbdcdc82d3e9db}
-      \strng{authorbibnamehash}{1554a750230f24805cfbdcdc82d3e9db}
-      \strng{authornamehash}{1554a750230f24805cfbdcdc82d3e9db}
-      \strng{authorfullhash}{1554a750230f24805cfbdcdc82d3e9db}
+      \strng{namehash}{34c7b4db06493fef6422e1aa768ddea8}
+      \strng{fullhash}{34c7b4db06493fef6422e1aa768ddea8}
+      \strng{bibnamehash}{34c7b4db06493fef6422e1aa768ddea8}
+      \strng{authorbibnamehash}{34c7b4db06493fef6422e1aa768ddea8}
+      \strng{authornamehash}{34c7b4db06493fef6422e1aa768ddea8}
+      \strng{authorfullhash}{34c7b4db06493fef6422e1aa768ddea8}
       \field{sortinit}{9}
       \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Las nuevas modalidades de aprendizaje, tanto las totalmente virtuales como las mixtas, han traído consigo no solo una revolución en cuanto a los recursos materiales, sino que también han supuesto un cambio en la perspectiva sobre la educación. Las Tecnologías de la Información y la Comunicación (T.I.C.) (Suárez, 2007; Alas y Bartolomé, 2003) han permitido la creación masiva de contenidos digitales de muy diverso tipo. Sin embargo, una vez hemos podido experimentar ya las posibilidades de medios como Internet, queda la tarea de reflexionar sobre lo acontecido hasta el momento y las implicaciones que representan para el futuro. Si además tenemos en cuenta la creciente necesidad de optimizar esfuerzos (porque hay que trabajar rápido ya que la información es cambiante, hay dificultades para conseguir inversión económica, etc.) obtenemos como resultado la aparición y aceptación de ideas como la de patrones de Christopher Alexander para aplicar en educación. Así, el presente trabajo ha elaborado un ejercicio de síntesis de las ideas y reflexiones principales sobre la educación actual, el e-learning, sus consecuencias en la creación de contenidos, y más concretamente, sobre todo lo que implican los patrones de Alexander para la construcción de contenidos y el favorecimiento de la comunicación}
-      \field{journaltitle}{Revista de Educación a Distancia (RED)}
-      \field{month}{7}
-      \field{number}{31 SE -}
-      \field{title}{{Patrones en aprendizaje: Concepto, aplicación y diseño de un patrón}}
-      \field{volume}{0}
-      \field{year}{2015}
+      \field{issn}{1889-3805}
+      \field{journaltitle}{Dialnet}
+      \field{title}{El análisis de series temporales situación y perspectivas}
       \verb{urlraw}
-      \verb https://revistas.um.es/red/article/view/232811
+      \verb http://www.seio.es/BEIO/files/BEIOVol23Num4_ES_DPena+ISanchez.pdf
       \endverb
       \verb{url}
-      \verb https://revistas.um.es/red/article/view/232811
+      \verb http://www.seio.es/BEIO/files/BEIOVol23Num4_ES_DPena+ISanchez.pdf
       \endverb
     \endentry
-    \entry{SainzdeVicuna2000}{incollection}{}
-      \name{author}{1}{}{%
-        {{hash=5e268fa68953708c9781d903ed214ccd}{%
-           family={{Sainz de Vicuña}},
-           familyi={S\bibinitperiod},
-           given={Paloma},
-           giveni={P\bibinitperiod}}}%
+    \entry{JARAMILLOAYERBE2007}{article}{}
+      \name{author}{5}{}{%
+        {{hash=bbe2df7cb96bd082cbc74db18afb9809}{%
+           family={Jaramillo\bibnamedelima Ayerbe},
+           familyi={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Mauricio},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7edba3ee1a153179399eed72736f7420}{%
+           family={González\bibnamedelima Gómez},
+           familyi={G\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Daniel\bibnamedelima Enrique},
+           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=2894c68eeabc49c2f23bbb571ca63ae5}{%
+           family={Núñez\bibnamedelima Cabrera},
+           familyi={N\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={María\bibnamedelima Eugenia},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=14dfdc47c461cb0cce447178ea5f0881}{%
+           family={Portilla},
+           familyi={P\bibinitperiod},
+           given={Gloria\bibnamedelima Esperanza},
+           giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=7de3f6d96c36a98a3d875663712b8568}{%
+           family={Lucio\bibnamedelima García},
+           familyi={L\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Jesús\bibnamedelima Heriberto},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
       }
-      \strng{namehash}{5e268fa68953708c9781d903ed214ccd}
-      \strng{fullhash}{5e268fa68953708c9781d903ed214ccd}
-      \strng{bibnamehash}{5e268fa68953708c9781d903ed214ccd}
-      \strng{authorbibnamehash}{5e268fa68953708c9781d903ed214ccd}
-      \strng{authornamehash}{5e268fa68953708c9781d903ed214ccd}
-      \strng{authorfullhash}{5e268fa68953708c9781d903ed214ccd}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Este libro presenta un modelo integrador a varios niveles: expresivo, sensorial-psicomotor, relacional-social y cognitivo. Con una síntesis de las características del niño de esta edad y, a partir de aquí, el estudio de la función de la escuela infantil, aborda el currículum, Programa y programación, los objetivos, la organización del espacio-aula, los contenidos (actividades y experiencias), concediendo una gran importancia al aspecto lúdico.}
-      \field{booktitle}{Ciclo formativo de Grado Superior en Educación Infantil}
-      \field{isbn}{84-369-3375-3}
-      \field{title}{{Didáctica de la Educación Infantil}}
-      \field{year}{2000}
-    \endentry
-    \entry{Chaves2020}{misc}{}
-      \name{author}{1}{}{%
-        {{hash=84f8bca7cd7d05937eed14e4ffa26990}{%
-           family={Chaves},
-           familyi={C\bibinitperiod},
-           given={Elizabeth\bibnamedelimb Andrea\bibnamedelima Tabla},
-           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
-      }
-      \strng{namehash}{84f8bca7cd7d05937eed14e4ffa26990}
-      \strng{fullhash}{84f8bca7cd7d05937eed14e4ffa26990}
-      \strng{bibnamehash}{84f8bca7cd7d05937eed14e4ffa26990}
-      \strng{authorbibnamehash}{84f8bca7cd7d05937eed14e4ffa26990}
-      \strng{authornamehash}{84f8bca7cd7d05937eed14e4ffa26990}
-      \strng{authorfullhash}{84f8bca7cd7d05937eed14e4ffa26990}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{El interés de estudio de esta investigación es ahondar en la reflexión pedagógica sobre las características y circunstancias de la Educación Virtual pensada desde el concepto de cibercultura introducido por Levy (2007) y no tanto en sus dominios didácticos de los que ya existe suficiente información e investigación continua. 5 Se trata de indagar sobre cómo la cibercultura cambia las formas de ser, de saber y de estar en el mundo y qué relaciones tienen estos cambios con la Educación Virtual, de la misma manera que surge la pregunta sobre cómo debían incorporarse estos aspectos teóricos de la cibercultura en el discurso y la práctica pedagógica de la Educación Virtual.}
-      \field{title}{{CIBERCULTURA Y EDUCACIÓN VIRTUAL}}
-      \field{year}{2020}
-      \field{pages}{241}
-      \range{pages}{1}
-      \keyw{http://hdl.handle.net/11349/22972}
-    \endentry
-    \entry{kapp2012gamification}{book}{}
-      \name{author}{1}{}{%
-        {{hash=4addd860398d96c5747a31ddeb1d5403}{%
-           family={Kapp},
-           familyi={K\bibinitperiod},
-           given={K.M.},
-           giveni={K\bibinitperiod}}}%
+      \list{language}{1}{%
+        {es}%
       }
       \list{publisher}{1}{%
-        {Wiley}%
+        {scieloco}%
       }
-      \strng{namehash}{4addd860398d96c5747a31ddeb1d5403}
-      \strng{fullhash}{4addd860398d96c5747a31ddeb1d5403}
-      \strng{bibnamehash}{4addd860398d96c5747a31ddeb1d5403}
-      \strng{authorbibnamehash}{4addd860398d96c5747a31ddeb1d5403}
-      \strng{authornamehash}{4addd860398d96c5747a31ddeb1d5403}
-      \strng{authorfullhash}{4addd860398d96c5747a31ddeb1d5403}
+      \strng{namehash}{6385cf4d0ed45ab9f62e6cfce4a3cae4}
+      \strng{fullhash}{a1c3f92698d2ca3ffc6289a9f6493f2d}
+      \strng{bibnamehash}{6385cf4d0ed45ab9f62e6cfce4a3cae4}
+      \strng{authorbibnamehash}{6385cf4d0ed45ab9f62e6cfce4a3cae4}
+      \strng{authornamehash}{6385cf4d0ed45ab9f62e6cfce4a3cae4}
+      \strng{authorfullhash}{a1c3f92698d2ca3ffc6289a9f6493f2d}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{isbn}{9781118191989}
-      \field{title}{The Gamification of Learning and Instruction: Game-based Methods and Strategies for Training and Education}
-      \field{year}{2012}
+      \field{issn}{0120-6230}
+      \field{journaltitle}{Revista Facultad de IngenierÃ\-a Universidad de Antioquia}
+      \field{month}{03}
+      \field{title}{{Análisis de series de tiempo univariante aplicando metodología de Box-Jenkins para la predicción de ozono en la ciudad de Cali, Colombia}}
+      \field{year}{2007}
+      \field{pages}{79\bibrangedash 88}
+      \range{pages}{10}
       \verb{urlraw}
-      \verb https://books.google.com.co/books?id=GLr81qqtELcC
+      \verb http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0120-62302007000100007&nrm=iso
       \endverb
       \verb{url}
-      \verb https://books.google.com.co/books?id=GLr81qqtELcC
+      \verb http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0120-62302007000100007&nrm=iso
       \endverb
     \endentry
-    \entry{kiryakova2014gamification}{inproceedings}{}
-      \name{author}{3}{}{%
-        {{hash=a86f9d54985eb02a88e28ac045563441}{%
-           family={Kiryakova},
-           familyi={K\bibinitperiod},
-           given={Gabriela},
-           giveni={G\bibinitperiod}}}%
-        {{hash=8b97709a4b804663092e7d0a61b1fda1}{%
-           family={Angelova},
-           familyi={A\bibinitperiod},
-           given={Nadezhda},
-           giveni={N\bibinitperiod}}}%
-        {{hash=3fc93aeaa91369c79726b4c3fbaae17a}{%
-           family={Yordanova},
-           familyi={Y\bibinitperiod},
-           given={Lina},
-           giveni={L\bibinitperiod}}}%
-      }
-      \list{organization}{2}{%
-        {Proceedings of 9th International Balkan Education}%
-        {Science Conference}%
-      }
-      \strng{namehash}{4d10683218815149868558219694c183}
-      \strng{fullhash}{4d10683218815149868558219694c183}
-      \strng{bibnamehash}{4d10683218815149868558219694c183}
-      \strng{authorbibnamehash}{4d10683218815149868558219694c183}
-      \strng{authornamehash}{4d10683218815149868558219694c183}
-      \strng{authorfullhash}{4d10683218815149868558219694c183}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Gamification in education}
-      \field{year}{2014}
-    \endentry
-    \entry{Kipper2013}{incollection}{}
+    \entry{MLCECILIA2011}{tesis}{}
       \name{author}{1}{}{%
-        {{hash=59044a5bebde3117e62173f31acce5f1}{%
-           family={Kipper},
-           familyi={K\bibinitperiod},
-           given={Gregory},
-           giveni={G\bibinitperiod}}}%
+        {{hash=ef3bcf70b00f42184e62cd3015c458fc}{%
+           family={Montero\bibnamedelima López},
+           familyi={M\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={Cecilia},
+           giveni={C\bibinitperiod}}}%
       }
-      \name{editor}{1}{}{%
-        {{hash=27995b7ea07bc071242ad12b5c3e22d9}{%
-           family={Kipper},
-           familyi={K\bibinitperiod},
-           given={Gregory\bibnamedelimb B\bibnamedelimb T\bibnamedelimb -\bibnamedelimb Augmented\bibnamedelima Reality},
-           giveni={G\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim \bibinithyphendelim \bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      \list{institution}{1}{%
+        {Universidad Iberoamericana Ciudad de México. Departamento de Ingenierías}%
       }
-      \list{location}{1}{%
-        {Boston}%
-      }
-      \list{publisher}{1}{%
-        {Syngress}%
-      }
-      \strng{namehash}{59044a5bebde3117e62173f31acce5f1}
-      \strng{fullhash}{59044a5bebde3117e62173f31acce5f1}
-      \strng{bibnamehash}{59044a5bebde3117e62173f31acce5f1}
-      \strng{authorbibnamehash}{59044a5bebde3117e62173f31acce5f1}
-      \strng{authornamehash}{59044a5bebde3117e62173f31acce5f1}
-      \strng{authorfullhash}{59044a5bebde3117e62173f31acce5f1}
-      \strng{editorbibnamehash}{27995b7ea07bc071242ad12b5c3e22d9}
-      \strng{editornamehash}{27995b7ea07bc071242ad12b5c3e22d9}
-      \strng{editorfullhash}{27995b7ea07bc071242ad12b5c3e22d9}
+      \strng{namehash}{ef3bcf70b00f42184e62cd3015c458fc}
+      \strng{fullhash}{ef3bcf70b00f42184e62cd3015c458fc}
+      \strng{bibnamehash}{ef3bcf70b00f42184e62cd3015c458fc}
+      \strng{authorbibnamehash}{ef3bcf70b00f42184e62cd3015c458fc}
+      \strng{authornamehash}{ef3bcf70b00f42184e62cd3015c458fc}
+      \strng{authorfullhash}{ef3bcf70b00f42184e62cd3015c458fc}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{isbn}{978-1-59749-733-6}
-      \field{title}{{Chapter 1 - What Is Augmented Reality?}}
-      \field{year}{2013}
-      \field{pages}{1\bibrangedash 27}
-      \range{pages}{27}
-      \verb{doi}
-      \verb https://doi.org/10.1016/B978-1-59-749733-6.00001-2
-      \endverb
-      \verb{urlraw}
-      \verb http://www.sciencedirect.com/science/article/pii/B9781597497336000012
-      \endverb
-      \verb{url}
-      \verb http://www.sciencedirect.com/science/article/pii/B9781597497336000012
-      \endverb
-    \endentry
-  \enddatalist
-\endrefsection
-
-\refsection{3}
-  \datalist[entry]{none/global//global/global}
-    \entry{santacruz2005automatizacion}{article}{}
-      \name{author}{1}{}{%
-        {{hash=16bb8da3791fd12f062532a7f5a30fa6}{%
-           family={Santacruz\bibnamedelima Valencia},
-           familyi={S\bibinitperiod\bibinitdelim V\bibinitperiod},
-           given={Liliana\bibnamedelima Patricia},
-           giveni={L\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
-      }
-      \strng{namehash}{16bb8da3791fd12f062532a7f5a30fa6}
-      \strng{fullhash}{16bb8da3791fd12f062532a7f5a30fa6}
-      \strng{bibnamehash}{16bb8da3791fd12f062532a7f5a30fa6}
-      \strng{authorbibnamehash}{16bb8da3791fd12f062532a7f5a30fa6}
-      \strng{authornamehash}{16bb8da3791fd12f062532a7f5a30fa6}
-      \strng{authorfullhash}{16bb8da3791fd12f062532a7f5a30fa6}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Automatización de los procesos para la generación, ensamblaje y reutilización de objetos de aprendizaje}
-      \field{year}{2005}
+      \field{month}{09}
+      \field{title}{Pronóstico de la calidad del aire en el área metropolitana de la Ciudad de México a través del análisis de las series de tiempo de los componentes del IMECA}
+      \field{type}{Aire - Contaminación - Análisis - Ciudad de México}
+      \field{year}{2011}
     \endentry
   \enddatalist
 \endrefsection
